@@ -44,6 +44,8 @@ export function Post(props) {
 
             <div className={styles.commentList}>
                 <Comment />
+                <Comment />
+                <Comment />
             </div>
         </article>
     )

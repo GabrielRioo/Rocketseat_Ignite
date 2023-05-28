@@ -15,7 +15,7 @@ export function Comment() {
                         </div>
 
                         <button title='Deletar Comentário'>
-                            <Trash sise={20} />
+                            <Trash sise={24} />
                         </button>
                     </header>
 
